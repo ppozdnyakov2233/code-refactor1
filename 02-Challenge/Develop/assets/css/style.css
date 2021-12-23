@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -73,6 +73,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* benefit section */
 
 .benefits {
     margin-right: 20px;
