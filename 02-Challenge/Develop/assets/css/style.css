@@ -18,6 +18,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    color: white;
 }
 
 
@@ -39,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* utility classes*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -47,15 +48,6 @@ a {
 
 p {
     font-size: 16px;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
@@ -68,6 +60,17 @@ p {
     margin-left: 25px;
 }
 
+/*utility classes end*/
+
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
 .content {
     width: 75%;
     display: inline-block;
