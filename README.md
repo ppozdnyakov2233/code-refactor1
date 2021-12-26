@@ -8,7 +8,7 @@ A website that helps you find the right social solutions.
 * CSS
 
 ## Website
-https://github.com/ppozdnyakov2233/code-refactor1/tree/main/02-Challenge </br>
+https://github.com/ppozdnyakov2233/code-refactor1/ </br>
 https://ppozdnyakov2233.github.io/code-refactor1/
 
 ## Contribution
